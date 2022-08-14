@@ -1,0 +1,32 @@
+html {
+    background-color: antiquewhite;
+}
+h1 {
+    font-size:30px;
+    text-transform:uppercase;
+    text-decoration:3px overline underline brown; 
+    font-weight:bold;
+    text-align:center;
+}
+h3 {
+    font-size:30px;
+    text-decoration:underline;
+    text-transform:Capitalize;
+    text-align:center;
+}
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+
+p, ol, ul {
+    font-size:20px;
+    
+}
+
+p{
+    text-align:center;
+}

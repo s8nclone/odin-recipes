@@ -1,0 +1,56 @@
+html {
+    background-color:beige;
+}
+
+h1 {
+    font-size:60px;
+    font-weight:bolder;
+    font-style:italic;
+    text-transform:capitalize;
+    text-align:center;
+    transform:skewY(-3deg);
+    letter-spacing:-5px;
+    
+    
+}
+
+h4 {
+    font-size:30px;
+    font-weight:bold;
+    text-transform:capitalize;
+    text-align:center;
+    text-decoration: 3px underline brown;
+    position:sticky;
+    top:0;
+}
+
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    font-size:20px;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+
+ul {
+    list-style:square;
+}
+
+li {
+    background-color: antiquewhite;
+    border:2px solid brown;
+    padding:7px 7px;
+    width:max-content;
+    margin:5px;
+}
+#footer {
+    position:relative;
+    padding-left:45%;
+    bottom: 0;
+    width: 100%;
+}
